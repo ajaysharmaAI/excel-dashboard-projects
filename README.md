@@ -1,42 +1,33 @@
-# 📊 Excel Dashboard Projects
+# 📊 Excel Sales Dashboard
 
-Welcome to my Excel Dashboard Portfolio.
+## 📌 Project Overview
 
-This repository showcases my work in Microsoft Excel for business reporting, dashboard creation, data cleaning, KPI tracking, and data analysis.
+This project is an interactive Sales Dashboard created in Microsoft Excel using charts, KPIs, and Pivot Tables.
 
-## 🔹 Skills Demonstrated
+## 📈 KPIs
 
-- Advanced Microsoft Excel
-- Pivot Tables
-- Lookup Functions (VLOOKUP, XLOOKUP)
-- Data Cleaning
-- Data Validation
-- Conditional Formatting
-- Dashboard Design
-- KPI Reporting
-- Business Reporting
-- Charts & Visualization
+- Total Sales
+- Total Quantity
+- Products
+- Regions
 
-## 📂 Upcoming Projects
+## 📊 Charts
 
-- Sales Dashboard
-- Production Dashboard
-- Inventory Dashboard
-- Quality Dashboard
-- HR Dashboard
-- MIS Reports
-- Excel Automation
+- Product Wise Sales
+- Region Wise Sales
+- Category Wise Sales
+- Sales Person Performance
 
-## 🎯 Objective
+## 🛠 Tools Used
 
-To demonstrate practical Microsoft Excel and reporting skills for Data Analyst, Business Analyst, AI Data Annotation, and Remote Operations roles.
+- Microsoft Excel
+- Pivot Table
+- Pivot Chart
+- Slicers
 
----
+## 👤 Author
 
-👨‍💻 **Ajay Sharma**
-
-Data Analyst | AI Data Annotation | Documentation Specialist
+Ajay Sharma
 
 GitHub: https://github.com/ajaysharmaAI
-
-LinkedIn: https://www.linkedin.com/in/ajay-sharma-52923887/
+LinkedIn: https://www.linkedin.com/in/ajay-sharma-52923887
