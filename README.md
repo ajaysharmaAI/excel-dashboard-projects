@@ -42,7 +42,7 @@ The dashboard helps analyze sales performance across products, regions, categori
 
 ## 📷 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ---
 
